@@ -53,3 +53,8 @@ exit
 ## ER図
 
 ![ER図](docs/images/er_diagram.png)
+
+
+
+
+![7DFB8FDA-9152-4B4B-94D8-E94338A1AAE8](https://github.com/user-attachments/assets/01f5fc0d-0847-41e3-938b-8d4af4f1d99e)
