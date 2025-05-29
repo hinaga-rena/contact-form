@@ -50,7 +50,6 @@ exit
  お問い合わせ完了　　http://localhost/thanks
  管理画面          http://localhost/admin
 
-🗃 ER図
 ## ER図
 ![ER図](docs/images/er.png)
  
